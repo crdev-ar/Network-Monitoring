@@ -1,6 +1,6 @@
 # IP-Monitoring in a local network
 
-Based on Test-NetConnection in Windows Powershell, this script is used to automate the monitoring in a Local Network.
+Based on Test-NetConnection command in Windows Powershell, this script is used to automate the monitoring in a Local Network.
 
 E- mail Alert with SMTP protocol (i Use Gmail) 
 
